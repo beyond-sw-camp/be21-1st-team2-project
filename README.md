@@ -1,5 +1,3 @@
-<img width="248" height="597" alt="INSERT_category" src="https://github.com/user-attachments/assets/fb4df6eb-507e-459b-ab95-9f50230429c8" /><!--Header-->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=What's%20up?-nl-We%20are%20'WhatSup'&fontSize=60&animation=fadeIn" />
 </div>
 
@@ -348,18 +346,69 @@
 ## 관리자
 <details>
   <P>
-    <summary> 물품 추가 </summary> <img width="1005" height="212" alt="새로운_고객_insert" src="https://github.com/user-attachments/assets/3f67f75b-fe4e-47f7-a7be-88930a2592c5" />
-  </P>
-</details> 
-<details>
-  <P>
-    <summary> 물품 수정 </summary> <img width="1290" height="150" alt="user_추가확인png" src="https://github.com/user-attachments/assets/d0a6db10-6f61-4df6-96a0-ab379a3ea8fa" />
+    <summary> 물품 리스트 조회(검색) </summary> <img width="801" height="500" alt="SELECT_product_list" src="https://github.com/user-attachments/assets/2ea2df4e-f490-47ff-8aca-2e181aa12ecd" />
 
   </P>
 </details>
 <details>
   <P>
+    <summary> 물품 상세 조회 </summary> <img width="1275" height="417" alt="SELECT_product_search" src="https://github.com/user-attachments/assets/060db34f-0978-4790-b83e-a00dade701b9" />
+
+  </P>
+</details>
+
+<details>
+  <P>
+    <summary> 물품 추가 </summary> <img width="1288" height="730" alt="INSERT_product" src="https://github.com/user-attachments/assets/4c7f6b4b-617f-4da6-b37f-10381a20fe02" />
+  </P>
+</details> 
+<details>
+  <P>
+    <summary> 물품 수정 </summary> 
+<img width="1310" height="843" alt="UPDATE_product" src="https://github.com/user-attachments/assets/71a0f9af-2d6c-4053-ad33-ff74ceb2f3bc" /><img width="187" height="469" alt="SELECT_category" src="https://github.com/user-attachments/assets/82603ff8-b08c-4451-9e8f-a79183c271fc" />
+
+  </P>
+</details>
+  <P>
+    <summary> 물품 재고 수정 </summary> <img width="1293" height="783" alt="UPDATE_product_stock" src="https://github.com/user-attachments/assets/3be2b773-5abe-44ea-bffc-4be9f76b5c91" />
+
+  </P>
+</details>
+
+  </P>
+</details>
+  <P>
+    <summary> 물품 이미지 추가 </summary> <img width="411" height="443" alt="INSERT_product_img" src="https://github.com/user-attachments/assets/7eb625db-6938-4915-86b9-cf1f25676e22" />
+
+  </P>
+</details>
+  </P>
+</details>
+  <P>
+    <summary> 물품 이미지 수정정 </summary> <img width="286" height="414" alt="UPDATE_product_img" src="https://github.com/user-attachments/assets/16850b51-e053-4307-b921-f1eccd71e653" />
+
+  </P>
+</details>
+
+<details>
+  <P>
      <summary> 물품 삭제 </summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
+  </P>
+</details>
+<details>
+  <P>
+    <summary> 카테고리 추가 </summary> <img width="248" height="597" alt="INSERT_category" src="https://github.com/user-attachments/assets/689dee72-9c76-47b8-91c9-93e84939d3a4" />
+  </P>
+</details> 
+<details>
+  <P>
+    <summary> 카테고리 수정 </summary> <img width="1290" height="150" alt="user_추가확인png" src="https://github.com/user-attachments/assets/d0a6db10-6f61-4df6-96a0-ab379a3ea8fa" />
+
+  </P>
+</details>
+<details>
+  <P>
+     <summary> 카테고리 삭제 </summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
   </P>
 </details>
     
