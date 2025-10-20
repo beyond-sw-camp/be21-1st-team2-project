@@ -370,14 +370,8 @@
   </P>
 </details>
 <details>
-  </P>
-</details>
-<details>
   <P>
     <summary> 물품 이미지 추가 </summary> <img width="411" height="443" alt="INSERT_product_img" src="https://github.com/user-attachments/assets/7eb625db-6938-4915-86b9-cf1f25676e22" />
-  </P>
-</details>
-<details>
   </P>
 </details>
 <details>
