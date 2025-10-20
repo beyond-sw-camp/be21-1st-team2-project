@@ -376,12 +376,13 @@
 </details>
 <details>
   <P>
-    <summary> 물품 이미지 수정정 </summary> <img width="286" height="414" alt="UPDATE_product_img" src="https://github.com/user-attachments/assets/16850b51-e053-4307-b921-f1eccd71e653" />
+    <summary> 물품 이미지 수정 </summary> <img width="286" height="414" alt="UPDATE_product_img" src="https://github.com/user-attachments/assets/16850b51-e053-4307-b921-f1eccd71e653" />
   </P>
 </details>
 <details>
   <P>
-     <summary> 물품 삭제 </summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
+     <summary> 물품 삭제 </summary><img width="1310" height="828" alt="DELETE_product" src="https://github.com/user-attachments/assets/4b01cceb-2f1a-4afe-8482-c0c5cb160ece" />
+
   </P>
 </details>
 <details>
@@ -391,13 +392,7 @@
 </details> 
 <details>
   <P>
-    <summary> 카테고리 수정 </summary> <img width="1290" height="150" alt="user_추가확인png" src="https://github.com/user-attachments/assets/d0a6db10-6f61-4df6-96a0-ab379a3ea8fa" />
-
-  </P>
-</details>
-<details>
-  <P>
-     <summary> 카테고리 삭제 </summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
+     <summary> 카테고리 삭제 </summary> <img width="443" height="513" alt="DELETE_category" src="https://github.com/user-attachments/assets/ea8a2ab0-30d1-4540-863e-4032649d95a9" />
   </P>
 </details>
     
