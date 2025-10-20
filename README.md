@@ -1,4 +1,4 @@
-<!--Header-->
+<img width="248" height="597" alt="INSERT_category" src="https://github.com/user-attachments/assets/fb4df6eb-507e-459b-ab95-9f50230429c8" /><!--Header-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=What's%20up?-nl-We%20are%20'WhatSup'&fontSize=60&animation=fadeIn" />
 </div>
@@ -345,7 +345,24 @@
   <summary>반품 쿼리문</summary><img width="763" height="442" alt="cart(30)_반품_쿼리문" src="https://github.com/user-attachments/assets/4240518f-7ac0-4214-bb7f-b1a3c9aa4382" />
 </details>
 
+## 관리자
+<details>
+  <P>
+    <summary> 물품 추가 </summary> <img width="1005" height="212" alt="새로운_고객_insert" src="https://github.com/user-attachments/assets/3f67f75b-fe4e-47f7-a7be-88930a2592c5" />
+  </P>
+</details> 
+<details>
+  <P>
+    <summary> 물품 수정 </summary> <img width="1290" height="150" alt="user_추가확인png" src="https://github.com/user-attachments/assets/d0a6db10-6f61-4df6-96a0-ab379a3ea8fa" />
 
+  </P>
+</details>
+<details>
+  <P>
+     <summary> 물품 삭제 </summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
+  </P>
+</details>
+    
 ## 서비스
 <details>
   <summary> 고객센터 </summary>
@@ -474,8 +491,3 @@
      <summary> 추천된 영양제</summary> <img width="860" height="797" alt="추천된_영양제" src="https://github.com/user-attachments/assets/684d178f-e801-41ec-9385-a750ff526fab" />
   </P>
 </details>
-
-
-# 8. 평가
-
-</div>
